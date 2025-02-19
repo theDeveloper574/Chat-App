@@ -1,0 +1,5 @@
+package com.konect
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
