@@ -48,7 +48,7 @@ This is a real-time chat application built using **Flutter** for the frontend an
 ### Backend Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/chat-app-backend.git
+   git clone https://github.com/theDeveloper574/Chat-App
    cd chat-app-backend
    ```
 2. Install dependencies:
@@ -69,7 +69,7 @@ This is a real-time chat application built using **Flutter** for the frontend an
 ### Frontend Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/chat-app-flutter.git
+   git clone https://github.com/theDeveloper574/Chat-App
    cd chat-app-flutter
    ```
 2. Install dependencies:
