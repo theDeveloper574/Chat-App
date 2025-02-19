@@ -44,45 +44,24 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBezBOg4XqEB5VpPLeBjfaSbwzgFCNZbPw',
-    appId: '1:774566526060:web:a304730090aeeb23f52c49',
-    messagingSenderId: '774566526060',
-    projectId: 'practiceappmy',
-    authDomain: 'practiceappmy.firebaseapp.com',
-    databaseURL: 'https://practiceappmy-default-rtdb.firebaseio.com',
-    storageBucket: 'practiceappmy.appspot.com',
-    measurementId: 'G-2RK4FKR1SD',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCzA-vCpSKnEG8jc3KYI5_vSZQIU4MYMZ4',
-    appId: '1:774566526060:android:c51bbb277a69f15ff52c49',
-    messagingSenderId: '774566526060',
-    projectId: 'practiceappmy',
-    databaseURL: 'https://practiceappmy-default-rtdb.firebaseio.com',
-    storageBucket: 'practiceappmy.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBom8SdlKFjDrNjdjIpfTjr0YdnPra8XBo',
-    appId: '1:774566526060:ios:afed298a5e66111af52c49',
-    messagingSenderId: '774566526060',
-    projectId: 'practiceappmy',
-    databaseURL: 'https://practiceappmy-default-rtdb.firebaseio.com',
-    storageBucket: 'practiceappmy.appspot.com',
-    androidClientId: '774566526060-0se17ee5g8t5bosatobdiaktqq1s1kq6.apps.googleusercontent.com',
-    iosClientId: '774566526060-bg8miernbsn2297jmcf24bh3sdf8ncgf.apps.googleusercontent.com',
-    iosBundleId: 'com.konect',
+   
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBezBOg4XqEB5VpPLeBjfaSbwzgFCNZbPw',
-    appId: '1:774566526060:web:5f70d522610b26d7f52c49',
-    messagingSenderId: '774566526060',
-    projectId: 'practiceappmy',
-    authDomain: 'practiceappmy.firebaseapp.com',
-    databaseURL: 'https://practiceappmy-default-rtdb.firebaseio.com',
-    storageBucket: 'practiceappmy.appspot.com',
-    measurementId: 'G-6HBMC3BM2N',
+ 
   );
 }
